@@ -1,0 +1,8 @@
+setting,value,notes
+company,Maldives seaplane operator (fictional),Shown in the report header
+currency,USD,Three-letter currency code
+minimum_cash,2000000,The revolver draws to keep cash at or above this
+revolver_limit,6000000,Revolving credit facility limit
+lease_life_years,6,Average remaining life of leases: drives right-of-use depreciation and lease principal
+max_net_debt_to_ebitda,3.0,Covenant: maximum net debt (incl. leases) to EBITDA
+min_interest_cover,4.0,Covenant: minimum EBITDA to interest

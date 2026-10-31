@@ -1,0 +1,16 @@
+driver,FY2026,FY2027,FY2028,FY2029,FY2030,notes
+revenue_growth_pct,7.0,6.0,5.5,5.0,4.5,Growth on the prior year
+direct_costs_pct,54.5,54.5,54.0,54.0,54.0,"% of revenue: fuel, crew, maintenance, handling"
+overheads_pct,22.5,22.5,22.0,22.0,22.0,% of revenue
+capex_pct,6.0,14.0,6.0,5.5,5.5,"% of revenue (FY2027 includes a Twin Otter purchase for fleet renewal)"
+ppe_depreciation_pct,11.0,11.0,11.0,11.0,11.0,% of opening PP&E
+new_leases,3640000,4400000,0,2000000,0,Right-of-use assets added (new aircraft and property leases)
+receivable_days,47,46,45,45,45,On revenue
+inventory_days,30,30,30,30,30,On direct costs (spares)
+payable_days,50,50,50,50,50,On direct costs
+term_loan_repayment,2000000,2000000,2000000,2000000,2000000,Scheduled principal repayment
+term_loan_rate_pct,7.5,7.5,7.5,7.5,7.5,On opening balance
+revolver_rate_pct,9.5,9.5,9.5,9.5,9.5,On opening balance
+lease_rate_pct,7.6,7.6,7.6,7.6,7.6,On opening lease liabilities
+tax_rate_pct,15.0,15.0,15.0,15.0,15.0,Assumed corporate tax rate
+dividend_payout_pct,50,50,50,50,50,% of net income
